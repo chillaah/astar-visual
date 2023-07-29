@@ -1,7 +1,5 @@
 # astar-visual
 
-Sure! Below is the same explanation of the A* Algorithm Visualization code converted to GitHub Markdown:
-
 ## A* Algorithm Visualization Code Explanation
 
 ### Introduction
